@@ -1,0 +1,31 @@
+#build_eutope_borders_graph.py
+# GMT Fri Nov 11 10:20:55 2022
+# 
+Belgium France Germany Luxembourg Netherlands
+Bulgaria Greece Romania
+Czech_Republic Poland Slovakia Germany Austria
+Denmark Germany Norway Poland Sweden
+Germany France Austria Netherlands Luxembourg Poland Sweden
+Estonia Latvia Finland Sweden
+Ireland
+Greece Italy
+Spain France Portugal Italy
+France Italy Luxembourg
+Croatia Slovenia Hungary Italy
+Italy Slovenia Austria Malta
+Cyprus
+Latvia Poland Sweden Lithuania
+Lithuania Poland Sweden
+Luxembourg
+Hungary Austria Slovakia Romania Slovenia
+Malta
+Netherlands
+Austria Slovakia Slovenia
+Poland Slovakia Sweden
+Portugal
+Romania
+Slovenia
+Slovakia
+Finland Sweden Norway
+Sweden Norway
+Norway
